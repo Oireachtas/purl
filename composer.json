@@ -1,5 +1,5 @@
 {
-    "name": "jwage/purl",
+    "name": "ecomailcz/purl",
     "type": "library",
     "description": "URL Manipulation for PHP",
     "keywords": ["url", "manipulation"],
