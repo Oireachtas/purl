@@ -14,7 +14,7 @@ Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
 The suggested installation method is via [composer](https://getcomposer.org/):
 
 ```sh
-composer require jwage/purl
+composer require ecomailcz/purl
 ```
 
 Using Purl
